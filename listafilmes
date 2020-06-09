@@ -1,7 +1,8 @@
 <item>
-<title>Marvel</tittle>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1hIS7lxC1sd5JLOd4HwmYufeMA7zZjj2h/preview$$lsname=[COLOR lime]HD[/COLOR] - CAPITA AMERICA - 2019</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1F11QqeisXECJRpQN6Lmk70WCIBQ53MD3/view$$lsname=[COLOR lime]HD[/COLOR] - CAPITAO AMERICA 01 - 2011</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1snWxNjrjphDkPpRvxBDKZGhdP8EejrvK/view$$lsname=[COLOR lime]HD[/COLOR] - HOMEM DE FERRO 01 - 2008</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lhOQjQe_FGjBQdoAHPuEDM_bPv5_-lhd/view$$lsname=[COLOR lime]HD[/COLOR] - O INCRIVEL HULK - 2008</link>
+<title>[B]CAPITÃ AMERICA 2019[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hIS7lxC1sd5JLOd4HwmYufeMA7zZjj2h/view</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>TESTE</info>
+<genre>AÇÃO</genre>
 </item>
